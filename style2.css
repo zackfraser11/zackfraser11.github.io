@@ -1,2 +1,10 @@
+h1 {
+  font-family: verdana;
+}
+p {
+  font-family: courier;
+}
+
+
 #nav-table {width: 800px;}
 #nav-td {width: 200px; text-align:center;}
