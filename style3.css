@@ -5,7 +5,8 @@ p {
   font-family: courier;
 }
 body {
-  background-image:
+  background-image: url("myBackground.jpg");
+}
 
 #nav-table {width: 800px;}
 #nav-td {width: 200px; text-align:center;}
